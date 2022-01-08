@@ -9,10 +9,10 @@ I hope that this project will reveal some interesting aspects about:
 2. how our emotions are intertwined with our digital life
 3. the method in which our computers can sometimes act as invasive vectors with the powerful capacity to collect massive amounts of information about our real selves through our virtual experiences
 
-##### Keywords
+#### Keywords
 interactive, generative art, creative coding, virtual, digital, online, experience, data science
 
-###### Please view this project on your computer.
+##### Please view this project on your computer.
 
 ### Microphone
 

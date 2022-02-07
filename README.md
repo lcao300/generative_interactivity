@@ -7,7 +7,7 @@ At its core, data science revolves around analyzing and presenting data in a vis
 I hope that this project will reveal some interesting aspects about:
 1. the way we interact with the online world 
 2. how our emotions are intertwined with our digital life
-3. the method in which our computers can sometimes act as invasive vectors with the powerful capacity to collect massive amounts of information about our real selves through our virtual experiences
+3. the method through which our computers can sometimes act as invasive vectors that collect massive amounts of information about our real selves through our virtual experiences
 
 ##### Please view this project on your computer.
 
